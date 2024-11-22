@@ -1,0 +1,163 @@
+[
+    
+    {
+        "question": "What’s the typical time most students wake up for an 8 AM class?",
+        "choice1": "5:00 AM",
+        "choice2": "6:30 AM",
+        "choice3": "7:45 AM",
+        "choice4": "8:15 AM",
+        "answer": 3
+    },
+    {
+        "question": "What’s the first thing students usually check on their phones in the morning?",
+        "choice1": "Messages",
+        "choice2": "Social Media",
+        "choice3": "News",
+        "choice4": "Weather",
+        "answer": 2
+    },
+    {
+        "question": "What’s the most popular excuse for missing homework?",
+        "choice1": "I didn’t understand it.",
+        "choice2": "I forgot it.",
+        "choice3": "My dog ate it.",
+        "choice4": "It got deleted.",
+        "answer": 3
+    },
+    {
+        "question": "What do students often do in the library instead of studying?",
+        "choice1": "Chat with friends",
+        "choice2": "Sleep",
+        "choice3": "Watch videos",
+        "choice4": "Actually study",
+        "answer": 1
+    },
+    {
+        "question": "What snack is most common during late-night study sessions?",
+        "choice1": "Chips",
+        "choice2": "Fruits",
+        "choice3": "Salad",
+        "choice4": "Sandwich",
+        "answer": 1
+    },
+    {
+        "question": "What’s the biggest challenge students face during exams?",
+        "choice1": "Remembering formulas",
+        "choice2": "Managing time",
+        "choice3": "Staying awake",
+        "choice4": "Writing answers",
+        "answer": 3
+    },
+    {
+        "question": "What’s the go-to beverage for students pulling an all-nighter?",
+        "choice1": "Juice",
+        "choice2": "Coffee",
+        "choice3": "Milk",
+        "choice4": "Water",
+        "answer": 2
+    },
+    {
+        "question": "What’s the most common way students procrastinate?",
+        "choice1": "Watching TV shows",
+        "choice2": "Cleaning their room",
+        "choice3": "Writing to-do lists",
+        "choice4": "Exercising",
+        "answer": 1
+    },
+    {
+        "question": "What’s the most loved subject among students?",
+        "choice1": "Mathematics",
+        "choice2": "Physical Education (PE)",
+        "choice3": "Science",
+        "choice4": "History",
+        "answer": 2
+    },
+    {
+        "question": "What’s the worst nightmare for a student?",
+        "choice1": "Pop quiz",
+        "choice2": "Losing notes",
+        "choice3": "Group projects",
+        "choice4": "Missing a class",
+        "answer": 2
+    },
+    {
+        "question": "What’s a student most likely to forget on exam day?",
+        "choice1": "Pen",
+        "choice2": "ID card",
+        "choice3": "Notes",
+        "choice4": "Watch",
+        "answer": 1
+    },
+    {
+        "question": "What do students look forward to most in school?",
+        "choice1": "Morning assembly",
+        "choice2": "Homework time",
+        "choice3": "Recess",
+        "choice4": "Extra classes",
+        "answer": 3
+    },
+    {
+        "question": "What’s the most common reason for being late to class?",
+        "choice1": "Oversleeping",
+        "choice2": "Traffic",
+        "choice3": "Forgot the schedule",
+        "choice4": "Too much breakfast",
+        "answer": 1
+    },
+    {
+        "question": "What do students usually do during boring lectures?",
+        "choice1": "Pay attention",
+        "choice2": "Doodle in notebooks",
+        "choice3": "Ask questions",
+        "choice4": "Read the textbook",
+        "answer": 2
+    },
+    {
+        "question": "What do students enjoy doing the most during free time?",
+        "choice1": "Studying extra",
+        "choice2": "Chatting with friends",
+        "choice3": "Reading books",
+        "choice4": "Attending workshops",
+        "answer": 2
+    },
+    {
+        "question": "What do students mostly complain about in cafeterias?",
+        "choice1": "Prices",
+        "choice2": "Food quality",
+        "choice3": "Quantity",
+        "choice4": "Waiting time",
+        "answer": 2
+    },
+    {
+        "question": "What’s the best way to end a school day for students?",
+        "choice1": "Extra homework",
+        "choice2": "Sports practice",
+        "choice3": "Group studies",
+        "choice4": "Attending a seminar",
+        "answer": 2
+    },
+    {
+        "question": "What’s the most dreaded day for students?",
+        "choice1": "Sports Day",
+        "choice2": "Results Day",
+        "choice3": "Annual Day",
+        "choice4": "Picnic Day",
+        "answer": 2
+    },
+    {
+        "question": "What’s a student’s most favorite tech gadget?",
+        "choice1": "Smartphone",
+        "choice2": "Laptop",
+        "choice3": "Tablet",
+        "choice4": "Smartwatch",
+        "answer": 1
+    },
+    {
+        "question": "What’s the most loved festival at schools?",
+        "choice1": "Annual Cultural Fest",
+        "choice2": "Parent-Teacher Meeting",
+        "choice3": "Science Exhibition",
+        "choice4": "Debate Competition",
+        "answer": 1
+    }
+]
