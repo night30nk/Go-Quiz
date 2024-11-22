@@ -1,1 +1,1 @@
-# Go-Quiz
+# Quick-Quiz
